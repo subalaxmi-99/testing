@@ -1,2 +1,2 @@
-ECHO Hello everyone,I am suba
+ECHO Hello everyone,I am suba,hi
 PAUSE
